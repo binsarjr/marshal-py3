@@ -1,6 +1,6 @@
 # marshal.py3
 
-perintah install termux
+perintah install menggunakan termux
 
 
 ##### pkg update && pkg upgrade
